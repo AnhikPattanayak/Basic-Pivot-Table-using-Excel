@@ -2,7 +2,7 @@
 
 This project focuses on analyzing sales transaction data to uncover actionable business insights related to revenue trends, regional performance, product demand, and sales representative effectiveness. 
 
-🗂️## Dataset Description
+## 🗂️ Dataset Description
 
 The dataset contains transactional-level sales data including:
 
