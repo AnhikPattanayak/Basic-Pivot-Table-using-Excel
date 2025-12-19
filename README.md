@@ -6,18 +6,18 @@ This project focuses on analyzing sales transaction data to uncover actionable b
 
 The dataset contains transactional-level sales data including:
 
--Order Date
+- Order Date
 
--Region
+- Region
 
--Sales Representative
+- Sales Representative
 
--Product Model & Color
+- Product Model & Color
 
--Quantity Sold
+- Quantity Sold
 
--Unit Price
+- Unit Price
 
--Discount Applied
+- Discount Applied
 
--Total Sales Value
+- Total Sales Value
