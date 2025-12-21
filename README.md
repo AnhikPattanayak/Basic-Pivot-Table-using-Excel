@@ -28,5 +28,6 @@ The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID info
 
 ### **1. Data Understanding**
   - Reviewed raw transactional data. 
-  - Identified key business metrics: Total Sales, Revenue Contribution, Order Volume
+  - Identified key business metrics: **Total Sales**, **Revenue Contribution**, **Order Volume**.
+    
     
