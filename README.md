@@ -26,5 +26,5 @@ The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID info
 
 ## 🛠️ Methodology
 
-1. Data Preprocessing
+### **1. Data Preprocessing**
   - **Handling Missing Values** : Identified and addressed any missing data in the dataset. 
