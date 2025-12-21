@@ -6,7 +6,7 @@ This project focuses on analyzing sales transaction data to uncover actionable b
 
 The dataset Sales_data.xlxs contains transactional-level sales data including:
 - **Sales Data:**
--  Num
+ - Num
 - Date
 - Month
 - Sales Rep
