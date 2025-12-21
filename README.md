@@ -18,3 +18,12 @@ The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID info
 - **Number** : Quantity of units sold in the transaction.
 - **Price / Unit** : Selling price of a single unit before aggregation.
 - **Total** : Total transaction value calculated as Quantity × Price per Unit.
+
+- **Key Insights**
+  - **Revenue Trends**
+    - Stable monthly performance
+    - Strong quarter-start momentum
+  - **Regional Performance**
+    - North and West lead revenue contribution
+    - Growth opportunities in other regions
+
