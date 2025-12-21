@@ -5,12 +5,16 @@ This project focuses on analyzing sales transaction data to uncover actionable b
 ## 🗂️ Dataset Description
 
 The dataset Sales_data.xlxs contains transactional-level sales data including:
-
-- Order Date
+- Sales Data:
+- Num
+- Date
+- Month
+- Sales Rep
 - Region
-- Sales Representative
-- Product Model & Color
-- Quantity Sold
-- Unit Price
-- Discount Applied
-- Total Sales Value
+- Customer ID
+- Model
+- Color
+- Item Code
+- Number
+- Price / Unit
+- Total
