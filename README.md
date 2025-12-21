@@ -25,3 +25,6 @@ The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID info
   - **Representative** :	Primary contact or account manager associated with the customer.
 
 ## 🛠️ Methodology
+
+1. Data Preprocessing
+  - **Handling Missing Values** : Identified and addressed any missing data in the dataset. 
