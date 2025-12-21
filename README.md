@@ -6,7 +6,7 @@ This project focuses on analyzing sales transaction data to uncover actionable b
 
 The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID information consisting of:
 - ### **Table_1: Sales Data**
-- **Num** : Unique sequential identifier for each sales transaction record.  
+  - **Num** : Unique sequential identifier for each sales transaction record.  
 - **Date** : Exact date on which the sales transaction occurred.
 - **Month** : Month extracted from the transaction date to analyze monthly trends.
 - **Sales Rep**: Name of the sales representative responsible for the transaction.
