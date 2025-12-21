@@ -23,3 +23,5 @@ The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID info
   - **Customer ID** :	Unique customer identifier used to join customer data with sales data.
   - **Company Name** :	Name of the company or organization purchasing the product.
   - **Representative** :	Primary contact or account manager associated with the customer.
+
+## 🛠️ Methodology
