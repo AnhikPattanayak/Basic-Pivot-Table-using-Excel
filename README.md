@@ -7,17 +7,17 @@ This project focuses on analyzing sales transaction data to uncover actionable b
 The dataset Sales_data.xlxs contains 2 tables of sales data and customer ID information consisting of:
 - ### **Table_1: Sales Data**
   - **Num** : Unique sequential identifier for each sales transaction record.  
-- **Date** : Exact date on which the sales transaction occurred.
-- **Month** : Month extracted from the transaction date to analyze monthly trends.
-- **Sales Rep**: Name of the sales representative responsible for the transaction.
-- **Region** : Geographic sales region where the transaction took place.
-- **Customer ID** : Unique identifier linking the sale to a specific customer.
-- **Model** : Product model sold in the transaction (e.g., chair type).
-- **Color** : Color variant of the product sold, useful for product preference analysis.
-- **Item Code** : Unique product code used for inventory and tracking.
-- **Number** : Quantity of units sold in the transaction.
-- **Price / Unit** : Selling price of a single unit before aggregation.
-- **Total** : Total transaction value calculated as Quantity × Price per Unit.
+  - **Date** : Exact date on which the sales transaction occurred.
+  - **Month** : Month extracted from the transaction date to analyze monthly trends.
+  - **Sales Rep**: Name of the sales representative responsible for the transaction.
+  - **Region** : Geographic sales region where the transaction took place.
+  - **Customer ID** : Unique identifier linking the sale to a specific customer.
+  - **Model** : Product model sold in the transaction (e.g., chair type).
+  - **Color** : Color variant of the product sold, useful for product preference analysis.
+  - **Item Code** : Unique product code used for inventory and tracking.
+  - **Number** : Quantity of units sold in the transaction.
+  - **Price / Unit** : Selling price of a single unit before aggregation.
+  - **Total** : Total transaction value calculated as Quantity × Price per Unit.
 
 - **Key Insights**
   - **Revenue Trends**
