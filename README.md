@@ -9,7 +9,7 @@ The dataset Sales_data.xlxs contains transactional-level sales data including:
  - Num
  - Date
  - Month
-- Sales Rep
+ - Sales Rep
 - Region
 - Customer ID
 - Model
